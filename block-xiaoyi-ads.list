@@ -1,0 +1,24 @@
+# YI Home / XiaoYi Camera ad-blocking rules
+# Shadowrocket RULE-SET format: policy is defined by the caller.
+# These domains were supplied from observed connection logs.
+# medproad.com was confirmed by the user to resolve the remaining ads.
+DOMAIN-SUFFIX,funlinkads.com
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com
+DOMAIN-SUFFIX,mi.gdt.qq.com
+DOMAIN-SUFFIX,fancyapi.com
+DOMAIN-SUFFIX,zhangyuyidong.cn
+DOMAIN-SUFFIX,fancydsp.com
+DOMAIN-SUFFIX,66mobi.com
+DOMAIN-SUFFIX,adwangmai.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,dmrtb.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,bgg.baidu.com
+DOMAIN-SUFFIX,yfanads.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,access1.tpns.sh.tencent.com
+DOMAIN-SUFFIX,medproad.com
+DOMAIN-SUFFIX,doubleclick.net
